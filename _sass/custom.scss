@@ -1,0 +1,11 @@
+// Custom overrides
+
+// shrink the sie of the footer
+.page__footer {
+    margin-top: 0em;
+
+    footer {
+        margin-top: 0.5em;
+        padding-bottom: 0.5em;
+    }
+}
