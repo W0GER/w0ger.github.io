@@ -136,6 +136,7 @@
         "Ninject",
         "nlkl",
         "nlkl's",
+        "Noden",
         "Noura",
         "Novotny",
         "NTFS",
@@ -392,7 +393,8 @@
         "listserv",
         "Musser",
         "Abuhakmeh",
-        "Testcontainers"
+        "Testcontainers".
+        "Giscus"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
