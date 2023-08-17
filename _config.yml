@@ -310,3 +310,6 @@ defaults:
       related: true
       share: false
       show_date: true
+
+
+post-images: "/images/posts/"
