@@ -106,7 +106,10 @@ analytics:
 author:
   name             : "Roger Noden"
   avatar           : "/images/Roger-1024x1024.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Vice President of Development, Aspiring Film Director, Husband.<br/> Software, Movies, Electric Vehicles, Cooking, BBQ, Outdoors, Music.<br/> He/him/his &mdash; Gay."
+  bio              : >
+    Vice President of Development, Aspiring Film Director, Adventurer, Husband.<br/>
+    Software, Movies, Electric Vehicles, Cooking, BBQ, Outdoors, Music.<br/>
+    He/him/his &mdash; Gay.
   location         : "Twin Cities, Minnesota"
   email            :
   links:
