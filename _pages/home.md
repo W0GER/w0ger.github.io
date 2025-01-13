@@ -9,7 +9,7 @@ header:
     # - label: "<i class='fas fa-download'></i> Install now"
     #   url: "/docs/quick-start-guide/"
 excerpt: >
-  Vice President of Development, Aspiring Film Director, Adventurer, Husband.<br/> 
+  Vice President of Software Engineering, Aspiring Film Director, Adventurer, Husband.<br/> 
   Software, Movies, Electric Vehicles, Cooking, BBQ, Outdoors, Music.<br/>
   He/him/his &mdash; Gay.<br/>
   Minnesota, USA
