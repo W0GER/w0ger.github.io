@@ -26,11 +26,11 @@ For my own reference because I often forget how. :smile:
 
 ### Linting
 
-* `npm install markdownlint-cli`
+* `npm install -g markdownlint-cli`
 * Go to the root directory
 * `markdownlint _posts`
 
 ### Spellcheck
 
-* `npm install cspell`
+* `npm install -g cspell`
 * `cspell _posts/**/*.md`
