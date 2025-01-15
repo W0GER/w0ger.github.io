@@ -8,7 +8,7 @@ header:
 ---
 
 Check out [Alpine Blue Media](https://alpineblue.com) for the latest film
-projects that I have worked on in the Twin Cities. 
+projects that I have worked on in the Twin Cities.
 
-I'm super proud of the Outter Rim Productions team and our
+I'm super proud of the Outer Rim Productions team and our
 2023 Z-Fest submission **MacGuffin** that won best picture!
