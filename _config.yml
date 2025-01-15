@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin    : "air" # "default:, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : "https://rogernoden.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "W0GER/w0ger.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/demo/demo-square.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # "/images/demo/demo-square.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -113,6 +113,9 @@ author:
   location         : "Twin Cities, Minnesota"
   email            :
   links:
+    - label: "BlueSky"
+      icon: "fas fa-fw fa-cloud-sun"
+      url: "https://bsky.app/profile/rogernoden.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://woof.group/@w0ger"
@@ -125,9 +128,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rogernoden"
-    - label: "BlueSky"
-      icon: "fas fa-fw fa-cloud-sun"
-      url: "https://bsky.app/profile/rogernoden.com"
+    - label: "Letterboxd"
+      icon: "fab fa-fw fa-letterboxd"
+      url: "https://letterboxd.com/w0ger"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       # url: "https://medium.com/@rogernoden"
@@ -162,6 +165,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rogernoden"
+    - label: "Letterboxd"
+      icon: "fab fa-fw fa-letterboxd"
+      url: "https://letterboxd.com/w0ger"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       # url: "https://medium.com/@rogernoden"
@@ -303,6 +309,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:year/:month/:title
 
 # Defaults
 defaults:
