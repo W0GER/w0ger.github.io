@@ -14,9 +14,9 @@ puzzle in the world of feature proposals and pull requests: the slippery nature
 of time references. Words like "currently" and "now" can sometimes create more
 confusion than clarity, so let's break it down!
 
-Imagine you're reviewing a pull request, and amidst the code chatter, someone 
-asks, "If the file is missing, what happens?" The response might be, "Currently, 
-it crashes if the file is missing." Sounds straightforward, right? Well, not 
+Imagine you're reviewing a pull request, and amidst the code chatter, someone
+asks, "If the file is missing, what happens?" The response might be, "Currently,
+it crashes if the file is missing." Sounds straightforward, right? Well, not
 quite. Is "currently" referring to the state before the changes or the state if
 you build with the proposed changes? This ambiguity can sneak up on anyone.
 
