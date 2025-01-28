@@ -37,4 +37,10 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+## Recent Posts
+
+{% for post in site.posts limit:4 %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
 {% include feature_row %}
