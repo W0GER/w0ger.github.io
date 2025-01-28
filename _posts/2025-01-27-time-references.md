@@ -8,6 +8,9 @@ header:
   overlay_image: images/aron-visuals-BXOXnQ26B7o-unsplash.jpg
   overlay_filter: 0.5
   caption: Photo by [**Aron Visuals** on Unsplash](https://unsplash.com/@aronvisuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+categories:
+  - Technology
+  - Software
 ---
 Hey tech enthusiasts! Today, we're diving into a common yet often overlooked
 puzzle in the world of feature proposals and pull requests: the slippery nature
