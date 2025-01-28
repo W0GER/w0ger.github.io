@@ -23,7 +23,7 @@ In today's development world, we are really building on the shoulders of giants!
   because they're awesome.
 * Comments are done via [Giscus][giscus link], so they're hosted via
   [GitHub Discussions](https://github.com/SeanKilleen/seankilleen.github.io/discussions).
-* The site is fronted with [Cloudflare](https://cloudflare.com) and used as a 
+* The site is fronted with [Cloudflare](https://cloudflare.com) and used as a
 content delivery network (CDN)
 
 [jekyll link]: http://jekyllrb.com/
