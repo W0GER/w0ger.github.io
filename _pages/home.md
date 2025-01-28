@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Rōger Nōden
 permalink: /
 hidden: true
 header:
