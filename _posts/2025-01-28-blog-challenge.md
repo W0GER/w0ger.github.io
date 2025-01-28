@@ -5,6 +5,7 @@ tags:
 date: 2025-01-28 15:00:00.000000000 -05:00
 excerpt: "I have accepted this fun challenge and this is my entry."
 header:
+  teaser: images/planet-volumes-W1hqljYTHcM-unsplash-2.jpg
   overlay_image: images/planet-volumes-W1hqljYTHcM-unsplash-2.jpg
   overlay_filter: 0.25
   caption: Photo by [**Aron Visuals** on Unsplash](https://unsplash.com/@aronvisuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

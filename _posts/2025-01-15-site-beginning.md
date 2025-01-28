@@ -4,7 +4,7 @@ title: Site Beginnings
 date: 2025-01-15 14:03:00.000000000 -05:00
 comments: true
 header:
-  # teaser: /images/hello-world.png
+  teaser: /images/hello-world.png
   overlay_image: /images/hello-world.png
 categories: 
 
