@@ -5,6 +5,7 @@ tags:
 date: 2025-01-27 16:20:00.000000000 -05:00
 excerpt: "Words like \"currently\" and \"now\" can sometimes create more confusion than clarity, so let's break it down!"
 header:
+  teaser: images/aron-visuals-BXOXnQ26B7o-unsplash.jpg
   overlay_image: images/aron-visuals-BXOXnQ26B7o-unsplash.jpg
   overlay_filter: 0.5
   caption: Photo by [**Aron Visuals** on Unsplash](https://unsplash.com/@aronvisuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

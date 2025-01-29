@@ -15,21 +15,24 @@ excerpt: >
   He/him/his &mdash; Gay.<br/>
   Minnesota, USA
 feature_row:
-  - image_path: # /assets/images/mm-customizable-feature.png
+  - image_path: assets/images/etienne-girardet-EP6_VZhzXM8-unsplash-2.jpg
+    image_caption: Photo by [**Etienne Girardet** on Unsplash](https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
     alt: "writings"
     title: "Writings &amp; Posts"
     excerpt: "Blog posts from your's truely."
     url: "/posts"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: # /assets/images/mm-responsive-feature.png
+  - image_path: assets/images/josh-eckstein-VAJEea9u6k8-unsplash.jpg
+    image_caption: Photo by [**Josh Eckstein** on Unsplash](https://unsplash.com/@dcejoshe?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
     alt: "projects"
     title: "Projects"
     excerpt: "Film and software projects I've worked on that might be interesting."
     url: "/projects"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: # /assets/images/mm-free-feature.png
+  - image_path: assets/images/martin-shreder-5Xwaj9gaR0g-unsplash.jpg
+    image_caption: Photo by [**Martin Shreder** on Unsplash](https://unsplash.com/@martinshreder?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
     alt: "about"
     title: "About"
     excerpt: "Every good project has an About page, check out what makes this site tick!"
