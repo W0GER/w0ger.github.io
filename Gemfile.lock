@@ -280,6 +280,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jemoji
   minimal-mistakes-jekyll
   webrick (~> 1.9)
 
