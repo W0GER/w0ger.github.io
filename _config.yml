@@ -24,6 +24,7 @@ description              : "An amazing website."
 url                      : "https://rogernoden.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "W0GER/w0ger.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+defaultbranch            : "main"
 teaser                   : # "/images/demo/demo-square.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -262,6 +263,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -270,6 +272,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 
@@ -327,8 +330,21 @@ defaults:
       comments: true
       read_time: true
       related: true
-      share: false
+      share: true
       show_date: true
+
+ # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      comments: false
+      read_time: false
+      related: true
+      share: false
+      show_date: false
 
 
 post-images: "/images/posts/"
