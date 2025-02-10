@@ -43,8 +43,10 @@ feature_row:
 
 ## Recent Posts
 
+{{< mdl-disable "<!-- markdownlint-disable MD033 -->" >}}
 <div class="feature__wrapper">
 {% for post in site.posts limit:3 %}
+  {{< mdl-disable "<!-- markdownlint-disable MD033 -->" >}}
   <div class="feature__item">
     {% include archive-single.html type="" %}
   </div>
@@ -52,4 +54,5 @@ feature_row:
 </div>
 
 ## Dig Deeper
+
 {% include feature_row %}
