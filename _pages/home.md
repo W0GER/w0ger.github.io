@@ -43,8 +43,13 @@ feature_row:
 
 ## Recent Posts
 
-{% for post in site.posts limit:4 %}
-  {% include archive-single.html type="grid" %}
+<div class="feature__wrapper">
+{% for post in site.posts limit:3 %}
+  <div class="feature__item">
+    {% include archive-single.html type="" %}
+  </div>
 {% endfor %}
+</div>
 
+## Dig Deeper
 {% include feature_row %}
