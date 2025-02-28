@@ -18,7 +18,7 @@ make things like edit links and the contributors page work correctly.
 * `bundle install`
 * `bundle exec jekyll serve` should build the site and serve it at
 * `http://localhost:4000`. For future posts, you can build with
-* `bundle exec jeykll serve --future true`
+* `bundle exec jekyll serve --future true`
 
 ## To Run Checks Locally
 
