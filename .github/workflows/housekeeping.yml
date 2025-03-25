@@ -18,7 +18,7 @@ jobs:
       - name: Lint Code Base
         uses: docker://avtodev/markdown-lint:v1
         with:
-          args: "**/*.md"
+          args: "_**/*.md"
   spellchecking:
     runs-on: ubuntu-latest
     steps:
