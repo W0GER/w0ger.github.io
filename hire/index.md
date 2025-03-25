@@ -161,6 +161,14 @@ Agility takes many forms and is a continual pursuit.
 
 [^1]: This is not an exhaustive list.
 
+## What I'm Reading
+
+* Competing Against Luck by Clayton M. Christensen, Taddy Hall, Karen Dillon &
+  Dave S. Duncan
+* Jobs to be Done: Theory to Practice by Anthony W. Ulwick
+* Essential by Christine Smith & Kelly Monahan
+* Crossing the Chasm by Geoffrey A. Moore
+
 ## Feedback I've Received
 
 Highlights from what my peers recently said about me, anonymously.
