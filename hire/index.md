@@ -3,6 +3,7 @@ layout: single
 author_profile: true 
 title: "Work With Roger"
 disable_ads: true
+classes: wide
 ---
 
 I created this page because I receive a lot of contacts from those recruiting
@@ -15,16 +16,15 @@ Read on below to see if we should chat!
 
 ## My Current Status
 
-TODO
-
-[comment]: <> (I'm embarking on a new opportunity shortly, and therefore am notcurrently accepting opportunities.)
+I am passively open to new opportunities as a way of keeping an open mind.
+If you think you have a great fit, feel free to send it my way.
 
 ## At a Glance
 
 * 20+ years developing software in the .NET ecosystem
 * 15+ years leading teams of between 5-20 individuals
 * 10+ years developing cloud-based software solutions (Azure, AWS)
-* Previously certified Microsoft Developer, Sitecore Developer
+* Certified Microsoft Developer, Sitecore Developer
 * A history of substantial impact
 * Merger and Acquisitions (M&A) experience
 
@@ -144,16 +144,17 @@ Agility takes many forms and is a continual pursuit.
 | -------- | ---------- |
 | **Languages** | C#, TypeScript, Javascript, C/C++ |
 | **Platforms & Frameworks** | .NET Core / .NET 5-9, .NET Framework 4.x, ASP.NET, MVC, WebAPI |
-| **Front-end** | Angular, WinUI, experience with Knockout, jQuery |
+| **Front-end** | Angular, React, WinUI, jQuery |
+| **Artificial Intelligence (AI)** | OpenAI, ChatGPT, GitHub Copilot |
 | **Build Tools** | GitHub Actions, Azure DevOps, OctopusDeploy, MSBuild |
-| **Databases** | General SQL/NoSQL, SQL Server, CosmosDB, ElasticSearch/OpenSearch |
-| **ORMs & Migrations** | Entity Framework, EF Core, Dapper |
 | **Cloud** | Azure PaaS / SaaS, Serverless, AWS .NET Serverless |
 | **Infrastructure tooling** | ARM, Bicep |
+| **Databases** | SQL Server, General NoSQL, DynamoDB, CosmosDB, ElasticSearch/OpenSearch |
+| **ORMs & Migrations** | Entity Framework, EF Core, Dapper |
 | **Automated Testing tools** | NUnit, xUnit, SpecFlow, Moq, FluentAssertions, Bogus |
 | **Automated Testing Techniques** | TDD, BDD, Gherkin |
 | **Other common libraries** | FluentValidation |
-| **Ticketing and workflows** | Azure DevOps, TFS, Jira, GitHub Projects,  |
+| **Ticketing and workflows** | Azure DevOps, TFS, GitHub Projects  |
 | **Static Sites** | Jekyll, GitHub Pages, Azure Static Sites |
 | **Methodologies and Mindsets** | Agility, Scrum, Kanban, DevOps |
 | **Leadership** | Transformational leadership, Leader/leader model |
@@ -166,6 +167,59 @@ Highlights from what my peers recently said about me, anonymously.
 I am incredibly proud of this feedback, and feel it represents what I can bring
 to an organization.
 
-### Feedback from 2023
+### Feedback
 
-TODO
+> "Roger’s can do attitude is justified by his deep technical skill set.
+  He has led multiple teams in to understand a core IT problem, identify the
+  solving architecture or product, and own the implementation.
+  This ability to select the correct solution and own the implementation is only
+  possible because understanding the current IT product and technology landscape
+  is a driven passion for him.
+  I would not hesitate to recommend him for a large project manager or CTO
+  position, and his enthusiasm for fully understanding his subject and managing
+  teams and groups allows him to excel in a wide range of strategic roles."
+
+> "Roger’s commitment to improving processes and removing roadblocks to the
+  efficient delivery of high-quality solutions were key to helping the
+  Development and Product teams achieve their goals of
+  delivering multiple solutions, all while continuing to make progress on the
+  Next Generation Content system.
+  His willingness to take ownership for shared resources (e.g. build systems)
+  and effectively coordinate activity across multiple stakeholders served to
+  keep the teams focused on their core job of producing software, without
+  getting bogged down in distracting impediments.
+  The team delivered close to 50% more feature content in 2020 than 2019,
+  with no additional headcount, and Roger’s direct help and leadership
+  contributed greatly to that achievement."
+
+> "Roger also proved instrumental in taking a practical approach to leading the
+  Diversity and Inclusion task force. While Roger is only just beginning this
+  journey leading the Diversity and Inclusion Committee and initiatives here at
+  Outsell, we are thankful for his leadership and look forward to what is to
+  come!"
+
+> "Roger is a true leader. He coaches, asks questions (doesn’t give commands),
+  and gives credit to others. He uses his past experience to implement well
+  thought out solutions as a team effort.
+  Working with him has been a tremendous learning experience.
+  I look forward to any project I get to work with Roger on."
+
+> "Roger is probably the best supervisor I have had in my professional career.
+  He has a great eye for talent and assembled a top notch team at Mercury
+  Companies.
+  He was always able to provide guidance when needed, but also knew how to let
+  his staff take an idea and run with it so they could call it their own and be
+  highly invested and passionate about it.
+  I have always strived in the years since then to lead teams I was responsible
+  for in the same manner."
+
+> "Roger is an incredibly effective manager and a wonderful person to work
+  around.
+  He would plug into any environment tremendously well due to his adaptability.
+  His attention to detail and communication skills really set him apart from the
+  rest of the pack."
+
+> "Roger did an amazing job on the [project name] database and user access
+  management collaborating with both product and other development teams.
+  Additionally, Roger stepped up and took on the Scrum Master role for the
+  [team name] Team and continued to manage blockers and impediments very well."
