@@ -150,6 +150,7 @@ author:
 
 # Site Footer
 footer:
+  since: "2023" # year the site was created, e.g. 2015
   links:
     - label: "BlueSky"
       icon: "fas fa-fw fa-cloud-sun"
