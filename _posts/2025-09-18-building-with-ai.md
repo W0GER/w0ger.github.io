@@ -55,32 +55,32 @@ foundation.
 
 ## Guardrails that actually work in practice
 
-1) Trust, then verify (quickly)
+1. Trust, then verify (quickly)
 
-Let AI draft. Then I do a 5–10 minute design pass: responsibilities,
-boundaries, and names. If I can’t describe each unit’s single responsibility in
-one sentence, I refactor before merging.
+   Let AI draft. Then I do a 5–10 minute design pass: responsibilities,
+   boundaries, and names. If I can’t describe each unit’s single responsibility
+   in one sentence, I refactor before merging.
 
-1) Prefer simpler seams over frameworks
+1. Prefer simpler seams over frameworks
 
-Instead of wrapping I/O in a mini-architecture, pass inputs as parameters and
-return values. Push complexity to the edges only when genuinely needed.
+   Instead of wrapping I/O in a mini-architecture, pass inputs as parameters and
+   return values. Push complexity to the edges only when genuinely needed.
 
-1) Tests as design feedback, not just safety nets
+1. Tests as design feedback, not just safety nets
 
-When a test is hard to write, I stop and adjust the API or dependency
-direction. Pain here is a feature; it points to structure that wants to change.
+   When a test is hard to write, I stop and adjust the API or dependency
+   direction. Pain here is a feature; it points to structure that wants to change.
 
-1) Time-boxed exploration, deliberate consolidation
+1. Time-boxed exploration, deliberate consolidation
 
-I allow messy exploratory branches. But I always follow with a consolidation
-commit: rename for clarity, inline accidental abstractions, extract true seams,
-delete dead code.
+   I allow messy exploratory branches. But I always follow with a consolidation
+   commit: rename for clarity, inline accidental abstractions, extract true seams,
+   delete dead code.
 
-1) Naming is a design act
+1. Naming is a design act
 
-I take an explicit naming pass. Clear names reduce the surface area of
-confusion more than another layer of code ever will.
+   I take an explicit naming pass. Clear names reduce the surface area of
+   confusion more than another layer of code ever will.
 
 ## A lightweight working checklist
 
