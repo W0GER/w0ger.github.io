@@ -331,7 +331,7 @@ defaults:
       comments: true
       read_time: true
       related: true
-      share: true
+      share: false
       show_date: true
 
  # _projects
