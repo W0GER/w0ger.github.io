@@ -19,8 +19,8 @@ Install ruby, ruby devkit
 cd to the project's root
 
 * `bundle install`
-* `bundle exec jekyll serve` should build the site and serve it at
-`http://localhost:4000 --incremental`.
+* `bundle exec jekyll serve --incremental` should build the site and serve it at
+`http://localhost:4000`.
 
 For future posts, you can build with
 
