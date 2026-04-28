@@ -154,7 +154,7 @@ Agility takes many forms and is a continual pursuit.
 | **Automated Testing tools** | NUnit, xUnit, SpecFlow, Moq, FluentAssertions, Bogus |
 | **Automated Testing Techniques** | TDD, BDD, Gherkin |
 | **Other common libraries** | FluentValidation |
-| **Ticketing and workflows** | Azure DevOps, TFS, GitHub Projects  |
+| **Ticketing and workflows** | Azure DevOps, TFS, GitHub Projects |
 | **Static Sites** | Jekyll, GitHub Pages, Azure Static Sites |
 | **Methodologies and Mindsets** | Agility, Scrum, Kanban, DevOps |
 | **Leadership** | Transformational leadership, Leader/leader model |
@@ -186,7 +186,6 @@ to an organization.
   I would not hesitate to recommend him for a large project manager or CTO
   position, and his enthusiasm for fully understanding his subject and managing
   teams and groups allows him to excel in a wide range of strategic roles."
-
 > "Roger’s commitment to improving processes and removing roadblocks to the
   efficient delivery of high-quality solutions were key to helping the
   Development and Product teams achieve their goals of
@@ -199,19 +198,16 @@ to an organization.
   The team delivered close to 50% more feature content in 2020 than 2019,
   with no additional headcount, and Roger’s direct help and leadership
   contributed greatly to that achievement."
-
 > "Roger also proved instrumental in taking a practical approach to leading the
   Diversity and Inclusion task force. While Roger is only just beginning this
   journey leading the Diversity and Inclusion Committee and initiatives here at
   Outsell, we are thankful for his leadership and look forward to what is to
   come!"
-
 > "Roger is a true leader. He coaches, asks questions (doesn’t give commands),
   and gives credit to others. He uses his past experience to implement well
   thought out solutions as a team effort.
   Working with him has been a tremendous learning experience.
   I look forward to any project I get to work with Roger on."
-
 > "Roger is probably the best supervisor I have had in my professional career.
   He has a great eye for talent and assembled a top notch team at Mercury
   Companies.
@@ -220,13 +216,11 @@ to an organization.
   highly invested and passionate about it.
   I have always strived in the years since then to lead teams I was responsible
   for in the same manner."
-
 > "Roger is an incredibly effective manager and a wonderful person to work
   around.
   He would plug into any environment tremendously well due to his adaptability.
   His attention to detail and communication skills really set him apart from the
   rest of the pack."
-
 > "Roger did an amazing job on the [project name] database and user access
   management collaborating with both product and other development teams.
   Additionally, Roger stepped up and took on the Scrum Master role for the

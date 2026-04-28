@@ -25,7 +25,7 @@ cd to the project's root
 For future posts, you can build with
 
 * `bundle exec jekyll serve --future true --incremental`
- 
+
 ## To Run Checks Locally
 
 For my own reference because I often forget how. :smile:

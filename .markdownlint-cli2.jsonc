@@ -1,0 +1,9 @@
+{
+  "globs": [
+    "**/*.md"
+  ],
+  "ignores": [
+    "_site/**",
+    "node_modules/**"
+  ]
+}
