@@ -156,5 +156,7 @@ having everyone back together for the next one.
 
 ---
 
+![Echo by the campfire]({{site.post-images}}/2026-05-25-camping-lake-winni-dam/echo-in-background-of-campfire.png)
+
 That's the trip. More to come — both here and on Mastodon. Thanks for
 reading.
