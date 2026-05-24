@@ -4,6 +4,8 @@ source "https://rubygems.org"
 # safe-mode theme restrictions don't apply. Mirrors the plugin set from
 # _config.yml except jekyll-remote-theme, which is replaced by the gem.
 gem "jekyll", "~> 3.10"
+gem "kramdown-parser-gfm"
+gem "rouge"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
