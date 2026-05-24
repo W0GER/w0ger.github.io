@@ -7,7 +7,7 @@ tags:
   - Rivian R1T
   - Gear
   - Dogs
-date: 2026-05-24 00:00:00.000000000 -05:00
+date: 2026-05-25 00:00:00.000000000 -05:00
 excerpt: >-
   Three nights at Lake Winni Dam with the R1T and Echo — one of the best
   Corps of Engineers campgrounds I've visited, plus gear notes and a menu
