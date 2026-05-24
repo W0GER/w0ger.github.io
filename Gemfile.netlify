@@ -1,0 +1,16 @@
+source "https://rubygems.org"
+
+# Lightweight bundle for Netlify builds — no github-pages gem so its
+# safe-mode theme restrictions don't apply. Mirrors the plugin set from
+# _config.yml except jekyll-remote-theme, which is replaced by the gem.
+gem "jekyll", "~> 3.10"
+gem "kramdown-parser-gfm"
+gem "rouge"
+gem "minimal-mistakes-jekyll"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-feed"
+gem "jemoji"
+gem "jekyll-include-cache"
+gem "uri", ">= 0.13.2"
