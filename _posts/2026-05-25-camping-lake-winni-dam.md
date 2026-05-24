@@ -35,6 +35,8 @@ Alright, on to the trip.
 
 ## The Weekend
 
+![Echo and Roger at the campground]({{site.post-images}}/2026-05-25-camping-lake-winni-dam/roger-and-echo.png)
+
 Three nights at Lake Winni Dam, and I have to say — this is hands down
 one of the nicest Corps of Engineers campgrounds I've stayed at. The
 sites are spacious and well laid out, each with electric hookup, a fire
