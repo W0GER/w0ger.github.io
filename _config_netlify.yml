@@ -1,0 +1,5 @@
+# Override _config.yml for Netlify builds.
+# Uses the local minimal-mistakes gem instead of jekyll-remote-theme,
+# which requires an authenticated GitHub API call to download the theme.
+theme: minimal-mistakes-jekyll
+remote_theme: ""
