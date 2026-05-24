@@ -1,7 +1,8 @@
 [build]
-  command = "bundle exec jekyll build --config _config.yml,_config_netlify.yml"
+  command = "bundle install && bundle exec jekyll build --config _config.yml,_config_netlify.yml"
   publish = "_site"
 
 [build.environment]
   RUBY_VERSION = "3.3.4"
   JEKYLL_ENV = "production"
+  BUNDLE_GEMFILE = "Gemfile.netlify"
