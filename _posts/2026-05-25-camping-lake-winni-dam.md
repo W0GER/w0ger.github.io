@@ -12,6 +12,10 @@ excerpt: >-
   Three nights at Lake Winni Dam with the R1T and Echo — one of the best
   Corps of Engineers campgrounds I've visited, plus gear notes and a menu
   built around one pound of ribeye.
+header:
+  teaser: images/posts/r1t-lake-winni-dam.png
+  overlay_image: images/posts/r1t-lake-winni-dam.png
+  overlay_filter: 0.5
 categories:
   - Camping
   - Outdoors
