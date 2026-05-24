@@ -128,6 +128,8 @@ no resupply.
 - *Dinner* — Steak fajitas (sliced ribeye, peppers, onions, flour
   tortillas)
 
+![Steak fajitas on the Blackstone griddle]({{site.post-images}}/lake-winni-dam-fajitas-on-the-grill.png)
+
 **Sunday**
 
 - *Breakfast* — Steak and eggs (using the leftover ribeye from Saturday)
