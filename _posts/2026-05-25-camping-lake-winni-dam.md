@@ -13,8 +13,8 @@ excerpt: >-
   Corps of Engineers campgrounds I've visited, plus gear notes and a menu
   built around one pound of ribeye.
 header:
-  teaser: images/posts/r1t-lake-winni-dam.png
-  overlay_image: images/posts/r1t-lake-winni-dam.png
+  teaser: images/posts/2026-05-25-camping-lake-winni-dam/lake-winni-dam-R1T.png
+  overlay_image: images/posts/2026-05-25-camping-lake-winni-dam/lake-winni-dam-R1T.png
   overlay_filter: 0.5
 categories:
   - Camping
@@ -128,7 +128,7 @@ no resupply.
 - *Dinner* — Steak fajitas (sliced ribeye, peppers, onions, flour
   tortillas)
 
-![Steak fajitas on the Blackstone griddle]({{site.post-images}}/lake-winni-dam-fajitas-on-the-grill.png)
+![Steak fajitas on the Blackstone griddle]({{site.post-images}}/2026-05-25-camping-lake-winni-dam/lake-winni-dam-fajitas-on-the-grill.png)
 
 **Sunday**
 
