@@ -1,5 +1,5 @@
 [build]
-  command = "bundle install && bundle exec jekyll build --config _config.yml,_config_netlify.yml"
+  command = "bundle install && bundle exec jekyll build --config _config.yml,_config_netlify.yml --future"
   publish = "_site"
 
 [build.environment]
