@@ -108,7 +108,7 @@ author:
   name             : "Rōger Nōden"
   avatar           : "/images/Roger-1024x1024.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >
-    Vice President of Software Engineering, Aspiring Film Director, Adventurer, Husband.<br/>
+    Vice President of Software Engineering for an AI-first company, Aspiring Film Director, Adventurer, Husband.<br/>
     Software, Movies, Electric Vehicles, Cooking, BBQ, Outdoors, Music.<br/>
     He/him/his &mdash; Gay.
   location         : "Twin Cities, Minnesota"
@@ -116,7 +116,7 @@ author:
   links:
     - label: "BlueSky"
       icon: "fas fa-fw fa-cloud-sun"
-      url: "https://bsky.app/profile/rogernoden.com"
+      # url: "https://bsky.app/profile/rogernoden.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://woof.group/@w0ger"
@@ -154,7 +154,7 @@ footer:
   links:
     - label: "BlueSky"
       icon: "fas fa-fw fa-cloud-sun"
-      url: "https://bsky.app/profile/rogernoden.com"
+      # url: "https://bsky.app/profile/rogernoden.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://woof.group/@w0ger"
