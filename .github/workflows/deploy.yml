@@ -34,7 +34,7 @@ jobs:
           JEKYLL_ENV: production
           # jekyll-github-metadata needs a token; GITHUB_TOKEN is auto-provided
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
