@@ -113,7 +113,7 @@ A few of the shifts I'd bet on:
 **Goal-driven over spec-driven.** When building is cheap, a fat specification is
 a liability — you've over-constrained the implementation before you've learned
 anything. Give teams a sharp goal and the guardrails, and let them find the
-shape. (I've argued before that for [AI agents this has to be explicit](/2026/04/your-backlog-is-a-conversation-your-ai-agents-need-a-contract/);
+shape. (I've argued before that for [AI agents this has to be explicit](/2026/04/backlog-contract-for-ai-agents/);
 for humans, direction beats a script.)
 
 **Opportunity backlogs over feature backlogs.** Stop listing things to build.
