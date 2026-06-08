@@ -30,7 +30,7 @@ couple of slick little apps. I asked how many of the last ten were still in use.
 The room did that thing rooms do now. Nobody knew, and the not-knowing was the
 answer.
 
-A few weeks ago I argued that
+Last week I argued that
 [AI didn't kill Agile — it moved the constraint](/2026/06/ai-moved-the-bottleneck/):
 when building got cheap, the bottleneck slid downstream from *can we build it?*
 to *can anyone actually absorb it?* I made the case that Jobs to be Done is how
@@ -136,3 +136,16 @@ their real energy raising the ceiling one compounding quarter at a time.
 
 Goldratt would have found the whole thing familiar. We just gave the bottleneck
 a new address.
+
+## Further reading
+
+- Goldratt, Eliyahu M., and Jeff Cox. *The Goal: A Process of Ongoing
+  Improvement.* North River Press, 1984. — the original Theory of Constraints,
+  delivered as a factory novel.
+- Rogers, Everett M. *Diffusion of Innovations.* Free Press, 1962 (5th ed.,
+  2003). — the adoption curve and how new practices actually spread through a
+  population.
+- Cohen, Wesley M., and Daniel A. Levinthal. "Absorptive Capacity: A New
+  Perspective on Learning and Innovation." *Administrative Science Quarterly*
+  35, no. 1 (1990): 128–152. — why an organization's ability to absorb the new
+  depends on what it already knows.
