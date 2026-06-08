@@ -139,13 +139,15 @@ a new address.
 
 ## Further reading
 
-- Goldratt, Eliyahu M., and Jeff Cox. *The Goal: A Process of Ongoing
-  Improvement.* North River Press, 1984. — the original Theory of Constraints,
-  delivered as a factory novel.
-- Rogers, Everett M. *Diffusion of Innovations.* Free Press, 1962 (5th ed.,
-  2003). — the adoption curve and how new practices actually spread through a
-  population.
-- Cohen, Wesley M., and Daniel A. Levinthal. "Absorptive Capacity: A New
-  Perspective on Learning and Innovation." *Administrative Science Quarterly*
-  35, no. 1 (1990): 128–152. — why an organization's ability to absorb the new
-  depends on what it already knows.
+- Goldratt, Eliyahu M., and Jeff Cox.
+  [*The Goal: A Process of Ongoing Improvement.*](https://en.wikipedia.org/wiki/The_Goal_%28novel%29)
+  North River Press, 1984. — the original Theory of Constraints, delivered as a
+  factory novel.
+- Rogers, Everett M.
+  [*Diffusion of Innovations.*](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+  Free Press, 1962 (5th ed., 2003). — the adoption curve and how new practices
+  actually spread through a population.
+- Cohen, Wesley M., and Daniel A. Levinthal.
+  ["Absorptive Capacity: A New Perspective on Learning and Innovation."](https://doi.org/10.2307/2393553)
+  *Administrative Science Quarterly* 35, no. 1 (1990): 128–152. — why an
+  organization's ability to absorb the new depends on what it already knows.
