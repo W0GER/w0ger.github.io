@@ -13,11 +13,12 @@ excerpt: >-
   organizations still absorb change at a stubbornly human rate — and Goldratt
   told us forty years ago what to do about a bottleneck you can't code past.
 header:
-  teaser: images/REPLACE-ME.jpg          # TODO: swap in real image before publishing
-  overlay_image: images/REPLACE-ME.jpg   # TODO: swap in real image before publishing
+  teaser: images/getty-images-fsdFdI3UN2M-unsplash.jpg
+  overlay_image: images/getty-images-fsdFdI3UN2M-unsplash.jpg
   overlay_filter: 0.5
   caption: >-
-    TODO: add photographer attribution once the header image is chosen.
+    Photo by [**Getty Images**](https://unsplash.com/@gettyimages)
+    on [**Unsplash**](https://unsplash.com/photos/asian-women-use-umbrella-walking-across-the-street-while-it-was-raining-fsdFdI3UN2M)
 categories:
   - Technology
   - Agile
