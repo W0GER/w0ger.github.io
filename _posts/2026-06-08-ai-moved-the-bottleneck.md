@@ -133,6 +133,38 @@ goes sideways.
 None of this is permission to abandon rigor. It's a relocation of it — from
 controlling input to being honest about output.
 
+## Which job is worth absorbing?
+
+Two of those shifts — opportunity backlogs and goal-driven work — quietly lean on
+a muscle most teams never had to build. Rationing scarce engineering, you mostly
+needed to know what to build *next*. When building is nearly free, you need to
+know what's worth building *at all* — and the sharpest name for that skill is
+Clayton Christensen's Jobs to be Done.
+
+The premise is relentlessly demand-side: people don't buy products, they hire
+them to make progress in a particular circumstance. Nobody wants a quarter-inch
+drill; they want a quarter-inch hole, and really they want the shelf up before
+the in-laws arrive. When building was the expensive part, you could start from
+the drill and survive. When building is free, the only scarce thing left is
+knowing which job is worth doing — and whether your shiny new capability is a
+better hire than whatever the person is using today, switching costs included.
+
+It's also the cleanest explanation I've found for the prototype graveyard.
+Christensen frames every switch as a tug-of-war: the *pull* of the new thing
+against two forces of inertia — the anxiety of trying it and the habit of what's
+already there. Most dead pilots had plenty of pull and made no accounting for the
+inertia. The job was never really hired, so the capability never got absorbed.
+
+I'd be honest about the limit, though. Jobs to be Done is a targeting system, not
+a throughput one. It tells you which job to aim abundant capability at; it does
+nothing on its own to raise how much change an organization can stomach in a
+quarter. That ceiling is a different problem, and pretending one framework solves
+both is how you get a tidy theory and the same graveyard. Where it pays off twice
+is measurement: Tony Ulwick's outcome-driven spin turns a job into the
+*measurable* outcomes people judge progress by — a far better source for those
+value metrics than velocity ever was, and the same instinct as writing acceptance
+you can actually run. Define done as the job getting done.
+
 ## Forward-deployed, because the value is at the edge
 
 The pattern that keeps proving itself here is forward-deployed engineering:
