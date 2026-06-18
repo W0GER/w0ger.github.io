@@ -1,0 +1,28 @@
+---
+layout: null
+sitemap: false
+permalink: /llms.txt
+---
+# {{ site.title }}
+
+> Personal website and blog of {{ site.name }}, Vice President of Software
+> Engineering at an AI-first company. Writing on software engineering, AI,
+> engineering leadership, movies, electric vehicles, cooking, and the outdoors.
+
+## About
+
+- [About]({{ '/about' | absolute_url }}): Who Rōger is and what this site covers.
+- [Blog Posts]({{ '/posts' | absolute_url }}): Full chronological index of posts.
+- [Projects]({{ '/projects/' | absolute_url }}): Selected projects and work.
+
+## Blog posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | absolute_url }}){% if post.excerpt %}: {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}{% endif %}
+{%- endfor %}
+
+## Optional
+
+- [Categories]({{ '/categories/' | absolute_url }}): Posts grouped by category.
+- [Tags]({{ '/tags/' | absolute_url }}): Posts grouped by tag.
+- [Full text for agents]({{ '/llms-full.txt' | absolute_url }}): Concatenated full text of all posts.
+- [RSS feed]({{ '/feed.xml' | absolute_url }}): Subscribe to new posts.

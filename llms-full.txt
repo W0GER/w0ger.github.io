@@ -1,0 +1,21 @@
+---
+layout: null
+sitemap: false
+permalink: /llms-full.txt
+---
+# {{ site.title }} — Full Content
+
+> Personal website and blog of {{ site.name }}, Vice President of Software
+> Engineering at an AI-first company. This file contains the full text of every
+> post for machine consumption. Source: {{ site.url }}
+{% for post in site.posts %}
+---
+
+# {{ post.title }}
+
+URL: {{ post.url | absolute_url }}
+Date: {{ post.date | date: "%Y-%m-%d" }}
+{% if post.tags %}Tags: {{ post.tags | join: ", " }}{% endif %}
+
+{{ post.content | strip_html | normalize_whitespace }}
+{% endfor %}
