@@ -2,3 +2,54 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
+
+<!-- Twitter card for social/agent previews -->
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- llms.txt for AI agents (https://llmstxt.org) -->
+<link rel="llms-txt" href="/llms.txt" type="text/markdown" title="llms.txt">
+<link rel="alternate" type="text/markdown" href="/llms.txt" title="llms.txt">
+
+<!-- Entity / structured data for AI agents and search -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "{{ site.url }}/#person",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}",
+      "image": "{{ '/images/Roger-1024x1024.jpeg' | absolute_url }}",
+      "jobTitle": "Vice President of Software Engineering",
+      "sameAs": [
+        "https://woof.group/@w0ger",
+        "https://github.com/W0GER",
+        "https://www.imdb.com/name/nm13461083",
+        "https://www.linkedin.com/in/rogernoden",
+        "https://letterboxd.com/w0ger"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "{{ site.url }}/#organization",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}",
+      "logo": "{{ '/images/Roger-1024x1024.jpeg' | absolute_url }}",
+      "founder": { "@id": "{{ site.url }}/#person" },
+      "sameAs": [
+        "https://woof.group/@w0ger",
+        "https://github.com/W0GER",
+        "https://www.linkedin.com/in/rogernoden"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "name": "{{ site.title }}",
+      "url": "{{ site.url }}",
+      "publisher": { "@id": "{{ site.url }}/#organization" }
+    }
+  ]
+}
+</script>
