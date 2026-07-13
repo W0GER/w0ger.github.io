@@ -432,7 +432,9 @@
         "Musser",
         "Abuhakmeh",
         "Testcontainers",
-        "Giscus"
+        "Giscus",
+        "Substack",
+        "roadmaps"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
