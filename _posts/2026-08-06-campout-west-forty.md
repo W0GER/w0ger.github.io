@@ -42,10 +42,10 @@ Short version: we booked next year before we left.
 <figure>
   <img
     src="{{ site.post-images }}/2026-08-06-campout-west-forty/the-weekend.jpeg"
-    alt="Jayson and me at the picnic table on site A3 at dusk, string
-      lights and the neon sign glowing behind us">
+    alt="Jayson and me in camp chairs on site A3 at dusk, the neon sign
+      and string lights on behind us">
   <figcaption>
-    Site A3 after dark — the lights on, the sign on, nowhere to be.
+    Site A3 at dusk — the lights on, the sign on, nowhere to be.
   </figcaption>
 </figure>
 
@@ -253,4 +253,8 @@ We booked A3 for next year before we left.
 That's CampOUT. Thanks to Paul and Chuck for putting it together, and to
 everyone who came out.
 
-**Up next:** more to come — here and on Mastodon. Thanks for reading.
+**Up next:** a week in Tbilisi, Georgia for work — a long way from a
+griddle and a fire ring. Then the Vikings' first home game of the
+preseason the weekend after, and the last weekend of August in Wisconsin.
+
+More to come — here and on Mastodon. Thanks for reading.
