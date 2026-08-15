@@ -246,7 +246,7 @@ organized weekend like this: you show up for the campground and the
 schedule, and what you leave with is a list of people you want to camp near
 again.
 
-We booked A3 for next year before we left.
+We booked A11 for next year before we left.
 
 ---
 
