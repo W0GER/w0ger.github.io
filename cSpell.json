@@ -434,7 +434,18 @@
         "Testcontainers",
         "Giscus",
         "Substack",
-        "roadmaps"
+        "roadmaps",
+        "campout",
+        "cornhole",
+        "Diddy",
+        "dogbone",
+        "Enbrighten",
+        "Fitz",
+        "LGBTQIA",
+        "paracord",
+        "porketta",
+        "RGBWIC",
+        "RVGUARD"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
