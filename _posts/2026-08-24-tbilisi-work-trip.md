@@ -23,9 +23,9 @@ categories:
 ---
 
 I just got back from a work trip to Tbilisi, Georgia. It was, by a
-comfortable margin, the best trip I've taken in years, and also the one
-where I spent thirty-six hours dressed entirely in merchandise from a
-single Levi's store. Both of those things are true. Let me explain.
+comfortable margin, the best business trip I've taken in years, and also
+the one where I spent thirty-six hours dressed entirely in merchandise
+from a single Levi's store. Both of those things are true. Let me explain.
 
 As always, the shorter, in-the-moment version — photos, quick takes —
 lives on Mastodon at **[@w0ger@woof.group](https://woof.group/@w0ger)**.
@@ -51,10 +51,6 @@ corridor, and a second security screening where I once again explained my
 toiletries to a stranger. CDG is not so much an airport as several
 buildings that resent each other and refuse to speak.
 
-I ate in 2E. This turned out to be the single best decision of the entire
-trip, because Terminal 2D's dining situation is a sandwich kiosk and a
-prayer.
-
 ## The Bag Takes a Detour
 
 I landed in Tbilisi. My luggage did not.
@@ -62,8 +58,8 @@ I landed in Tbilisi. My luggage did not.
 Somewhere between Paris and Georgia, my bag decided that a two-hour
 layover was insufficient and extended its stay. Bold. Frankly the kind of
 decisive travel planning I aspire to. I filed the report at the baggage
-desk and went to the hotel with a carry-on, a phone charger, and the
-clothes I had eaten the salmon in.
+desk and went to the hotel with my laptop backpack, a phone charger, and
+the clothes I had eaten the salmon in.
 
 The next morning, one of the guys from work took one look at me, said
 nothing about it, and drove me to a Levi's. I bought a personality off the
@@ -222,8 +218,9 @@ understood roughly none of the words and all of the meaning. Best twenty
 minutes of the trip home.
 
 Oh — and I mentioned to a flight attendant that I'd never been on an A380
-before, and she gave me a tour of the flight deck. I would like to state
-for the record that I touched nothing. There are approximately four
+before, and she gave me a tour of all three decks — upper, main, and the
+crew quarters — finishing with a stop on the flight deck. I would like to
+state for the record that I touched nothing. There are approximately four
 thousand switches up there and every single one of them looks important. I
 sat very still, said "wow" several times, and kept my hands visible at all
 times.
@@ -234,7 +231,7 @@ times.
     alt="Me sitting in the right-hand seat of an A380 flight deck,
       surrounded by displays and switch panels, hands folded in my lap">
   <figcaption>
-    Hands folded. Touching nothing. Photographic evidence.
+    Hands away from all controls. Touching nothing. Photographic evidence.
   </figcaption>
 </figure>
 
