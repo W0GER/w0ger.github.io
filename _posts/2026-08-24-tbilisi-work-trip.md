@@ -127,8 +127,9 @@ questions about what other menus are getting up to.
 <figure>
   <img
     src="{{ site.post-images }}/2026-08-24-tbilisi-work-trip/team-dinner.jpeg"
-    alt="A long dinner table filling a warmly lit dining room, the whole
-      team seated down both sides under copper pendant lights">
+    alt="One long table running the length of a tall, ornate dining room,
+      the whole team seated down both sides and looking back at the
+      camera, copper glass pendants hanging overhead">
   <figcaption>
     The whole table. This is the part of a work trip that doesn't fit in
     an expense report.
@@ -154,12 +155,12 @@ arrive at by cable car. I respect the commitment to the bit.
 <figure>
   <img
     src="{{ site.post-images }}/2026-08-24-tbilisi-work-trip/mtatsminda-night.jpeg"
-    alt="Tbilisi spread out at night seen from Mtatsminda, city lights
-      filling the valley and a lightning bolt striking in the storm
-      clouds over the far hills">
+    alt="Tbilisi at night seen from Mtatsminda, city lights filling the
+      whole valley, Holy Trinity Cathedral lit gold in the middle of it,
+      and a lightning bolt coming out of the storm over the far hills">
   <figcaption>
-    Tbilisi from Mtatsminda, with a storm putting on a show over the far
-    hills. Phone photo, and it still got that.
+    Tbilisi from Mtatsminda. Holy Trinity lit up in the middle, and a
+    storm putting on a show over the far hills.
   </figcaption>
 </figure>
 
