@@ -252,8 +252,8 @@ questions.
 ## Would Recommend
 
 Final tally: three flights home, 27.5 hours door to door, one bag that
-traveled independently for part of the week, two margaritas, one flight
-deck tour, two UNESCO World Heritage sites, one pair of jeans I now have
+traveled independently for part of the week, two margaritas, one full tour
+of an A380, two UNESCO World Heritage sites, one pair of jeans I now have
 real affection for, and one piece of salmon I will never fully forgive.
 
 Tbilisi was wonderful. The work went well, the city is beautiful, the food
