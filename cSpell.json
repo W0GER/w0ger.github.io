@@ -445,7 +445,19 @@
         "paracord",
         "porketta",
         "RGBWIC",
-        "RVGUARD"
+        "RVGUARD",
+        "Gaulle",
+        "Jvari",
+        "Kakheti",
+        "Metekhi",
+        "Mtatsminda",
+        "Mtkvari",
+        "Mtskheta",
+        "Pappasito",
+        "recalibrated",
+        "Saperavi",
+        "Shalauri",
+        "Svetitskhoveli"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
