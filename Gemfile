@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # The site is built by .github/workflows/deploy.yml, not the GitHub Pages
 # builder, so the github-pages meta-gem isn't needed. Its version pins held
 # back security fixes (e.g. rubyzip via jekyll-remote-theme 0.4.3).
-gem "jekyll", "~> 3.10"
+gem "jekyll", "~> 4.4"
 gem "kramdown-parser-gfm"
 gem "minimal-mistakes-jekyll"
 gem "webrick", "~> 1.9"
