@@ -457,7 +457,16 @@
         "recalibrated",
         "Saperavi",
         "Shalauri",
-        "Svetitskhoveli"
+        "Svetitskhoveli",
+        "ADRs",
+        "Connell",
+        "Driessen",
+        "GitVersion",
+        "PRD",
+        "relitigate",
+        "TestFlight",
+        "worktree",
+        "worktrees"
     ],
     "ignoreRegExpList": [
         "\\((.*)\\)", // Markdown links
