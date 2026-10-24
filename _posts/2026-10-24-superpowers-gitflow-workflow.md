@@ -12,6 +12,13 @@ excerpt: >-
   Claude Code and superpowers. Mine is nearly the same, but it ships a
   real iOS game through GitFlow instead of release-please. Here's the loop,
   where it differs, and how to start.
+header:
+  teaser: images/lois-hill-3pWCaJfy2HA-unsplash.jpg
+  overlay_image: images/lois-hill-3pWCaJfy2HA-unsplash.jpg
+  overlay_filter: 0.3
+  caption: >-
+    Photo by [**Lois Hill**](https://unsplash.com/@loishillphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+    on [**Unsplash**](https://unsplash.com/photos/3pWCaJfy2HA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 categories:
   - Technology
   - Development
